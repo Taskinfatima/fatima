@@ -1,0 +1,4 @@
+
+Hello Fatima!
+I am learning Git and GitHub.
+This is my first VS Code project.
