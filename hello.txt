@@ -2,3 +2,4 @@
 Hello Fatima!
 I am learning Git and GitHub.
 This is my first VS Code project.
+I am learning to update files using VS Code and GitHub.
